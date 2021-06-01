@@ -5,7 +5,7 @@ __precompile__(true)
 """
     ShapedDiff
 
-Template for Julia packages.
+Multi-backend (automatic) differentiation with shaped values.
 """
 module ShapedDiff
 
